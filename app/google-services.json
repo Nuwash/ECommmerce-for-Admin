@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1031493889788",
+    "project_id": "ecom-271ad",
+    "storage_bucket": "ecom-271ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031493889788:android:6935cbf01bf6191e2d3179",
+        "android_client_info": {
+          "package_name": "bd.edu.rifat.ecomadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXqqv0IF0vIPoLCghW4_WSUzjjWEOEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031493889788:android:7ff8b8e0c5c4b6d52d3179",
+        "android_client_info": {
+          "package_name": "bd.edu.rifat.userecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXqqv0IF0vIPoLCghW4_WSUzjjWEOEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031493889788:android:3fe03afc8570018c2d3179",
+        "android_client_info": {
+          "package_name": "com.example.adminecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXqqv0IF0vIPoLCghW4_WSUzjjWEOEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031493889788:android:153241ebca2228c12d3179",
+        "android_client_info": {
+          "package_name": "com.tanvir.training.ecomadminbatch2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXqqv0IF0vIPoLCghW4_WSUzjjWEOEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031493889788-e39cmpoo322g3eo3ivrqea0u8fs3j3vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
